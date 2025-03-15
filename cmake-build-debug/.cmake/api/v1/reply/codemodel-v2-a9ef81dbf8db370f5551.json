@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/DSAWithC++/cmake-build-debug",
-		"source" : "D:/DSAWithC++"
+		"build" : "C:/Users/RJSA-11-04-2024-01/Documents/CLion/cmake-build-debug",
+		"source" : "C:/Users/RJSA-11-04-2024-01/Documents/CLion"
 	},
 	"version" : 
 	{
